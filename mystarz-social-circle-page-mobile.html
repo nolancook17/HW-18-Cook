@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/mystarz-social-circle-page-mobile.css" />
+    <style>
+      @font-face {
+        font-family: "Protipo-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5cd4565fdf0600000a922f58/Protipo-Bold.otf") format("opentype");
+      }
+
+      @font-face {
+        font-family: "Protipo-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5cd4565fdf0600000a922f58/Protipo-Regular.otf")
+          format("opentype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="mystarz-social-circle-page-mobile" />
+    <div class="container-center-horizontal">
+      <div class="mystarz-social-circle-page-mobile screen">
+        <div class="rectangle-206-C61RwL"></div>
+        <div class="rectangle-205-C61RwL"></div>
+        <div class="rectangle-204-C61RwL"></div>
+        <div class="in-the-day-h-to-watch-C61RwL">
+          In the days of endless but overwhelming<br />amounts of new video content, <br />Streaming Users suffer from
+          surfing through choices and start to believe there’s <br />nothing good enough to watch.
+        </div>
+        <img class="line-36-C61RwL" src="img/line-36@1x.png" />
+        <div class="my-starz-s-case-study-C61RwL protipo-normal-black-20px">
+          MySTARZ Social Circle <br />Personal Design Challenge Case Study
+        </div>
+        <img class="starz-open-screen-C61RwL" src="img/starz-open-screen@1x.png" />
+        <div class="design-a-f-experience-C61RwL lipaagatehigh-regular-normal-black-18px">
+          Design a feature for the STARZ TV app that allows for the marketing team to highlight recommended content to
+          customers (at the optimal time) during the end of their video playback experience.
+        </div>
+        <div class="the-challenge-C61RwL lipaagatehigh-bold-black-14px">The Challenge:</div>
+        <div class="x1-written---wireframe-C61RwL lipaagatehigh-regular-normal-black-18px">
+          1. Written Overview of Design Process and Thinking<br />2. High-Level User Flow + Wireframe
+        </div>
+        <div class="x1-ux-resea-x-designer-C61RwL lipaagatehigh-regular-normal-black-18px">
+          1. UX Researcher <br />2. UX Copywriter <br />3. UX Designer
+        </div>
+        <div class="x1-starz-ap-ogle-forms-C61RwL lipaagatehigh-regular-normal-black-18px">
+          1. STARZ App Version 4.3.12.70 <br />2. Adobe XD <br />3. tvOS Material Design Kit <br />4. Adobe Illustrator
+          <br />5. Adobe Photoshop <br />6. Google Forms
+        </div>
+        <div class="phase-1-us--iterating-C61RwL lipaagatehigh-regular-normal-black-18px">
+          Phase 1: User Research<br />Phase 2: Definition and Ideation<br />Phase 3: Prototyping<br />Phase 4: Testing
+          and Iterating
+        </div>
+        <div class="deliverables-C61RwL lipaagatehigh-bold-black-14px">Deliverables:</div>
+        <div class="roles-this-rent-roles-C61RwL lipaagatehigh-bold-black-14px">
+          Roles: (This was a Personal Design Challenge but I worked through many different roles)
+        </div>
+        <div class="tools-used-C61RwL lipaagatehigh-bold-black-14px">Tools Used:</div>
+        <div class="process-overview-C61RwL lipaagatehigh-bold-black-14px">Process Overview:</div>
+        <div class="user-research-C61RwL protipo-normal-black-24px">User Research</div>
+        <div class="prototyping-C61RwL protipo-normal-black-24px">Prototyping</div>
+        <div class="testing-an--iterating-C61RwL protipo-normal-black-24px">Testing and Iterating</div>
+        <div class="michael-age-22-C61RwL protipo-normal-black-24px">Michael, Age 22</div>
+        <div class="max-age-21-C61RwL protipo-normal-black-24px">Max, Age 21</div>
+        <div class="definition-d-ideation-C61RwL protipo-normal-black-24px">Definition and Ideation</div>
+        <img class="line-37-C61RwL" src="img/line-36@1x.png" />
+        <img class="line-41-C61RwL" src="img/line-36@1x.png" />
+        <img class="line-42-C61RwL" src="img/line-36@1x.png" />
+        <img class="line-38-C61RwL" src="img/line-36@1x.png" />
+        <div class="phase-1-C61RwL protipo-normal-black-20px">Phase 1</div>
+        <div class="phase-3-C61RwL protipo-normal-black-20px">Phase 3</div>
+        <div class="phase-4-C61RwL protipo-normal-black-20px">Phase 4</div>
+        <div class="phase-2-C61RwL protipo-normal-black-20px">Phase 2</div>
+        <div class="ellipse-1-C61RwL"></div>
+        <div class="ellipse-2-C61RwL"></div>
+        <div class="ellipse-3-C61RwL"></div>
+        <div class="interview--urvey-plan-C61RwL lipaagatehigh-bold-black-14px">Interview and Survey Plan:</div>
+        <div class="user-insig--statement-C61RwL lipaagatehigh-bold-black-14px">User Insight Statement:</div>
+        <div class="user-insig--statement-VMr6Om lipaagatehigh-bold-black-14px">User Insight Statement:</div>
+        <div class="user-insig--statement-mzXdH9 lipaagatehigh-bold-black-14px">User Insight Statement:</div>
+        <div class="feature-pr-ion-matrix-C61RwL lipaagatehigh-bold-black-14px">Feature Prioritization Matrix:</div>
+        <div class="value-proposition-C61RwL lipaagatehigh-bold-black-14px">Value Proposition:</div>
+        <div class="user-scenario-C61RwL lipaagatehigh-bold-black-14px">User Scenario:</div>
+        <div class="competitor-analysis-C61RwL lipaagatehigh-bold-black-14px">Competitor Analysis:</div>
+        <div class="sketches-C61RwL lipaagatehigh-bold-black-14px">Sketches:</div>
+        <div class="wireframe-user-flow-C61RwL lipaagatehigh-bold-black-14px">Wireframe + User Flow:</div>
+        <div class="user-testi-candidates-C61RwL lipaagatehigh-bold-black-14px">User Testing Candidates:</div>
+        <div class="takeaways--user-tests-C61RwL lipaagatehigh-bold-black-14px">Takeaways from User Tests:</div>
+        <div class="x5-C61RwL">5</div>
+        <div class="x63-C61RwL">63</div>
+        <div class="x18-65-C61RwL">18-65</div>
+        <div class="x1-1-interviews-C61RwL protipo-normal-black-11px">1-1 Interviews</div>
+        <div class="surveyresponses-C61RwL protipo-normal-black-11px">Survey<br />Responses</div>
+        <div class="age-of-use-represnted-C61RwL protipo-normal-black-11px">Age of Users<br />Represnted</div>
+        <div class="interview---questions-C61RwL lipaagatehigh-bold-black-14px">Interview and Survey Questions:</div>
+        <div class="interview--y-insights-C61RwL lipaagatehigh-bold-black-14px">Interview and Survey Insights:</div>
+        <div class="user-persona-C61RwL lipaagatehigh-bold-black-14px">User Persona:</div>
+        <div class="x1-what-tv--ew-content-C61RwL lipaagatehigh-regular-normal-black-18px">
+          1. What TV streaming platforms do you&nbsp;&nbsp;currently use? <br />
+          2. What is the optimal time after viewing a movie or show for recommended content <br />to appear? <br />
+          3. Which type of recommended content do <br />you prefer? <br />&nbsp;&nbsp;&nbsp;&nbsp; a. Recently
+          Viewed <br />&nbsp;&nbsp;&nbsp;&nbsp; b. New Content <br />&nbsp;&nbsp;&nbsp;&nbsp; c. Favorites <br />&nbsp;&nbsp;&nbsp;&nbsp;
+          d. Suggested Content <br />
+          4. Do you feel like suggested content algorithms work? <br />
+          5. How do you feel like this content should be shown on the screen after playback?<br /><br />
+          6. If your friends that used the same streaming services as you could recommend content to you through
+          <br />these apps in place of the typical types of recommended content that you’re typically shown, would you
+          be more inclined to view our friends suggestion rather than what an algorithm provides?
+        </div>
+        <img class="s-and-i-ke--takeaways-C61RwL" src="img/s-and-i-key-takeaways@1x.png" />
+        <img class="starz-user-persona-01-C61RwL" src="img/starzuser-persona-01@1x.png" />
+        <img class="billy-C61RwL" src="img/billy@1x.png" />
+        <div class="billy-love--show-them-C61RwL lipaagatehigh-regular-normal-black-18px">
+          Billy loves to watch movies and keep up with his favorite tv shows in his free time. In light of the pandemic,
+          he puts in effort to stay in touch with friends through social media and misses the days of being able to hang
+          out with his friends and show them his favorite tv shows and new movies that he has found when binging content
+          on the multiple steaming tv platforms he subscribes to. He is quick to adapt to technology and does not
+          stuggle to interact with or navigate digital experiences.
+        </div>
+        <div class="how-might--e-end-of-v-C61RwL">
+          <span class="span0-SK9PGm">How Might We?<br /></span
+          ><span class="span1-SK9PGm"
+            >1. Create a feature in the STARZ app that allows users to recommend new content to their friends while also
+            being able to provide friend’s recommendations to users?<br />2. Show recommended content to users during an
+            optimal time near the end of video playback so that users actually continue to use the STARZ app?<br /><br /></span
+          ><span class="span2-SK9PGm">Point of View Statement:<br /></span
+          ><span class="span3-SK9PGm"
+            >A new feature of the STARZ app will integrate connected social sharing between users so that more
+            recommended content near the end of video playback can be exclusively inline with the interests of
+            <br />specific users.<br /><br /></span
+          ><span class="span4-SK9PGm">Problem Statement:<br /></span
+          ><span class="span5-SK9PGm"
+            >One of the top reasons for STARZ app cancellations is believed to be a perceived lack of relevant content.
+            However, it is believed that the perceived lack of content is indeed a perception, and the reality is that
+            there is a vast amount of relevant movies and series for users to find and watch in the STARZ app.<br /><br
+          /></span>
+        </div>
+        <div class="both-micha-dered-that-C61RwL">
+          Both Michael and Max pointed out how Flow 4 required a user to pull out their phone and find the contact
+          information for their friends since most people these days do not remember every single contact in their
+          phone. Therefore, it could be considered that this ask breaks UX best practice compliance with simplicity in
+          call to action flows. However, compared to having to enter a friend’s email, both Mike and Max agreed that the
+          phone number route was an easier option for this request of a user. Michael also pointed out the potential for
+          a marketing opportunity that STARZ has by encouraging users to recommend their friends to the feature and the
+          app as a whole in the event that a user’s friend may not be currently using the app. He went on to say that
+          this could be a big incentive for new users to try the app and sign up for a free trial if it meant that they
+          could pursue the content that their friends recommend for them.
+        </div>
+        <div class="i-like-C61RwL protipo-normal-black-24px">I LIKE:</div>
+        <div class="i-wish-C61RwL protipo-normal-black-24px">I WISH:</div>
+        <div class="what-if-C61RwL protipo-normal-black-24px">WHAT IF:</div>
+        <div class="x-personali-to-the-pan-C61RwL lipaagatehigh-regular-normal-black-18px">
+          - Personalizing my digital <br />experiences so that suggested content algothrims really feed to my
+          preferences<br /><br />- Being notified about new content in a platform<br /><br />- Keeping up with what my
+          friends and family are watching thanks to not seeing them due to the pandemic<br /><br />- Recommending
+          something to my friends that they may not have seen before <br /><br />
+        </div>
+        <div class="x-i-could-g-content-al-C61RwL lipaagatehigh-regular-normal-black-18px">
+          - I could get content suggestions that are based on what my friend’s and family’s viewing habits are on
+          streaming platforms<br /><br />- Directly refer my friends and family to content within streaming platforms
+          that we both use<br /><br />- Personalize recommended content algorithms in the STARZ app manually
+        </div>
+        <div class="x-link-my-s--starz-app-C61RwL lipaagatehigh-regular-normal-black-18px">
+          - Link my social media <br />accounts to my STARZ app<br /><br />- I could do remote watch <br />parties with
+          my friends in the STARZ app
+        </div>
+        <div class="the-my-sta--screens-s-C61RwL lipaagatehigh-regular-normal-black-18px">
+          The MySTARZ Social Circle feature will integrate a social sharing recommendation category to users during the
+          end of their video playback based on the content that is shared between connected users. A button will be
+          added to the content selection screens so that users can share content that they would like to recommend to
+          the other users that they are connected with through MySTARZ Social Circle feature.
+        </div>
+        <div class="x-normal-vi--recommend-C61RwL lipaagatehigh-regular-normal-black-18px">
+          - Normal Video Streaming Platform User<br /><br />- Uses 5 different streaming platforms<br /><br />- Enjoys
+          watching shows his friends recommend
+        </div>
+        <div class="x-frequent--een-before-C61RwL lipaagatehigh-regular-normal-black-18px">
+          - Frequent Video Streaming Platform User<br /><br />- Uses 7 different streaming platforms<br /><br />- Enjoys
+          watching shows his friends recommend, but also loves recommending shows to his friends that they haven’t seen
+          before
+        </div>
+        <img class="line-39-C61RwL" src="img/line-39@1x.png" />
+        <img class="line-40-C61RwL" src="img/line-39@1x.png" />
+        <img class="feature-pr--matrix-01-C61RwL" src="img/feature-proiritization-matrix-01@1x.png" />
+        <img class="starz-tv-hd-mockup-1-C61RwL" src="img/starz-tv-hd-mockup-1@1x.png" />
+        <img class="user-scena-o-starz-01-C61RwL" src="img/user-scenario-starz-01@1x.png" />
+        <img class="comp-analy-s-starz-01-C61RwL" src="img/comp-analysis-starz-01@1x.png" />
+        <img class="image-2-C61RwL" src="img/image-2@1x.png" />
+        <img class="user-flow-starz-C61RwL" src="img/user-flow-starz@1x.png" />
+        <img class="image-3-C61RwL" src="img/image-3@1x.png" />
+        <img class="image-4-C61RwL" src="img/image-4@1x.png" />
+        <img class="flow-4-C61RwL" src="img/flow-4@1x.png" />
+        <div class="rectangle-202-C61RwL"></div>
+        <a href="homepage-mobile.html#homepage-mobile"
+          ><img class="c00ked-col-logo-black-C61RwL" src="img/c00ked-collective-logo-black-1@1x.png"
+        /></a>
+        <div class="rectangle-203-C61RwL"></div>
+        <div class="group-67-C61RwL">
+          <div class="uxui-gW6vdi">UX/UI</div>
+          <img class="icons8-res-nsive-90-1-gW6vdi" src="img/icons8-responsive-90--1--1@1x.png" />
+        </div>
+        <div class="group-62-C61RwL">
+          <img class="icons8-ide-sharing-90-q2BeyX" src="img/icons8-idea-sharing-90-1@1x.png" />
+          <div class="branding-q2BeyX protipo-light-black-11px">Branding</div>
+        </div>
+        <div class="group-63-C61RwL">
+          <img class="icons8-camera-90-L0cjLb" src="img/icons8-camera-90-1@1x.png" />
+          <div class="photography-L0cjLb protipo-light-black-11px">Photography</div>
+        </div>
+        <div class="group-64-C61RwL">
+          <img class="icons8-about-480-PsxVLr" src="img/icons8-about-480-1@1x.png" />
+          <div class="about-PsxVLr protipo-light-black-11px">About</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

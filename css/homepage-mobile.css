@@ -1,0 +1,733 @@
+/* screen - homepage-mobile */
+
+.homepage-mobile {
+  background-color: rgba(255,255,255,1.0);
+  height: 812px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.homepage-mobile .about-PsxVLr {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.homepage-mobile .branding-q2BeyX {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.homepage-mobile .c00ked-col-logo-black-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/c00ked-collective-logo-black-1@1x.png);
+  background-size: 100% 100%;
+  height: 61px;
+  left: 123px;
+  opacity: 1;
+  position: fixed;
+  top: 13px;
+  width: 130px;
+}
+.homepage-mobile .group-62-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 49px;
+  left: 114px;
+  opacity: 1;
+  position: fixed;
+  top: 744px;
+  width: 70px;
+}
+.homepage-mobile .group-63-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 46px;
+  left: 194px;
+  opacity: 1;
+  position: fixed;
+  top: 747px;
+  width: 70px;
+}
+.homepage-mobile .group-64-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 47px;
+  left: 270px;
+  opacity: 1;
+  position: fixed;
+  top: 746px;
+  width: 70px;
+}
+.homepage-mobile .group-67-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 49px;
+  left: 36px;
+  opacity: 1;
+  position: fixed;
+  top: 744px;
+  width: 70px;
+}
+.homepage-mobile .icons8-about-480-PsxVLr {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-about-480-1@1x.png);
+  background-size: 100% 100%;
+  height: 30px;
+  left: calc(50.00% - 15px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.homepage-mobile .icons8-camera-90-L0cjLb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-camera-90-1@1x.png);
+  background-size: 100% 100%;
+  height: 33px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.57% - 16px);
+  top: 0px;
+  width: 33px;
+}
+.homepage-mobile .icons8-ide-sharing-90-q2BeyX {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-idea-sharing-90-1@1x.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: calc(50.00% - 16px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+.homepage-mobile .icons8-responsive-90-gW6vdi {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-responsive-90@1x.png);
+  background-size: 100% 100%;
+  height: 33px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.57% - 16px);
+  top: 0px;
+  width: 33px;
+}
+.homepage-mobile .im-a-ux-de-nformation-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: 304px;
+}
+.homepage-mobile .my-name-is-nolan-cook-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 397px;
+  width: 298px;
+}
+.homepage-mobile .photography-L0cjLb {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.homepage-mobile .rectangle-202-C61RwL {
+  --z-index: 0;
+  background-color: rgba(255,255,255,1.0);
+  height: 87px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 375px;
+}
+.homepage-mobile .rectangle-203-C61RwL {
+  --z-index: 5;
+  background-color: rgba(245,245,245,1.0);
+  height: 83px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 729px;
+  width: 375px;
+}
+.homepage-mobile .uxui-gW6vdi {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.homepage-mobile .welcome-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 62px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 313px;
+  white-space: nowrap;
+  width: auto;
+}
+.lipaagatehigh-bold-black-14px {
+  color: var(--black);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.lipaagatehigh-regular-normal-black-18px {
+  color: var(--black);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-light-black-11px {
+  color: var(--black);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+}
+.protipo-normal-black-11px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-normal-black-20px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-normal-black-24px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --monza: rgba(180,1,26,1.0);
+  --shimmering-blush: rgba(217,127,140,1.0);
+}
+/* screen - uxui-page-mobile */
+
+.lipaagatehigh-bold-black-14px {
+  color: var(--black);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.lipaagatehigh-regular-normal-black-18px {
+  color: var(--black);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-light-black-11px {
+  color: var(--black);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+}
+.protipo-normal-black-11px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-normal-black-20px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-normal-black-24px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.uxui-page-mobile {
+  background-color: rgba(255,255,255,1.0);
+  height: 3388px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.uxui-page-mobile .about-PsxVLr {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.uxui-page-mobile .branding-q2BeyX {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.uxui-page-mobile .c00ked-col-logo-black-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/c00ked-collective-logo-black-1@1x.png);
+  background-size: 100% 100%;
+  height: 61px;
+  left: 123px;
+  opacity: 1;
+  position: fixed;
+  top: 13px;
+  width: 130px;
+}
+.uxui-page-mobile .department-case-study-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1897px;
+  width: 276px;
+}
+.uxui-page-mobile .during-my--ded-to-con-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 449px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+  width: 304px;
+}
+.uxui-page-mobile .foriegn-fa-case-study-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2276px;
+  width: 173px;
+}
+.uxui-page-mobile .group-62-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 49px;
+  left: 114px;
+  opacity: 1;
+  position: fixed;
+  top: 744px;
+  width: 70px;
+}
+.uxui-page-mobile .group-63-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  height: 46px;
+  left: 194px;
+  opacity: 1;
+  position: fixed;
+  top: 747px;
+  width: 70px;
+}
+.uxui-page-mobile .group-64-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  height: 47px;
+  left: 270px;
+  opacity: 1;
+  position: fixed;
+  top: 746px;
+  width: 70px;
+}
+.uxui-page-mobile .group-67-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 51px;
+  left: 36px;
+  opacity: 1;
+  position: fixed;
+  top: 742px;
+  width: 70px;
+}
+.uxui-page-mobile .habitat-fo-case-study-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1215px;
+  width: 245px;
+}
+.uxui-page-mobile .icons8-about-480-PsxVLr {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-about-480-1@1x.png);
+  background-size: 100% 100%;
+  height: 30px;
+  left: calc(50.00% - 15px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.uxui-page-mobile .icons8-camera-90-L0cjLb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-camera-90-1@1x.png);
+  background-size: 100% 100%;
+  height: 33px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.57% - 16px);
+  top: 0px;
+  width: 33px;
+}
+.uxui-page-mobile .icons8-ide-sharing-90-q2BeyX {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icons8-idea-sharing-90-1@1x.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: calc(50.00% - 16px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+.uxui-page-mobile .icons8-res-nsive-90-1-gW6vdi {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/icons8-responsive-90--1--1@1x.png);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 15px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 32px);
+}
+.uxui-page-mobile .my-starz-s-case-study-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 836px;
+  width: 275px;
+}
+.uxui-page-mobile .photography-L0cjLb {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.uxui-page-mobile .rectangle-202-C61RwL {
+  --z-index: 12;
+  background-color: rgba(255,255,255,1.0);
+  height: 87px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 375px;
+}
+.uxui-page-mobile .rectangle-203-C61RwL {
+  --z-index: 14;
+  background-color: rgba(245,245,245,1.0);
+  height: 83px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 729px;
+  width: 375px;
+}
+.uxui-page-mobile .rectangle-207-C61RwL {
+  --z-index: 2;
+  background-color: rgba(68,85,211,1.0);
+  height: 648px;
+  left: 36px;
+  opacity: 0.5;
+  position: absolute;
+  top: 1178px;
+  width: 302px;
+}
+.uxui-page-mobile .rectangle-208-C61RwL {
+  --z-index: 6;
+  background-color: rgba(180,1,26,1.0);
+  height: 382px;
+  left: 36px;
+  opacity: 0.5;
+  position: absolute;
+  top: 781px;
+  width: 302px;
+}
+.uxui-page-mobile .rectangle-209-C61RwL {
+  --z-index: 7;
+  background-color: rgba(51,44,198,1.0);
+  height: 382px;
+  left: 35px;
+  opacity: 0.5;
+  position: absolute;
+  top: 1842px;
+  width: 303px;
+}
+.uxui-page-mobile .rectangle-211-C61RwL {
+  --z-index: 3;
+  background-color: rgba(3,96,186,1.0);
+  height: 648px;
+  left: 37px;
+  opacity: 0.5;
+  position: absolute;
+  top: 2239px;
+  width: 302px;
+}
+.uxui-page-mobile .rectangle-213-C61RwL {
+  --z-index: 8;
+  background-color: rgba(255,83,31,1.0);
+  height: 382px;
+  left: 36px;
+  opacity: 0.5;
+  position: absolute;
+  top: 2903px;
+  width: 303px;
+}
+.uxui-page-mobile .sync-app-u-iness-plan-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2958px;
+  width: 245px;
+}
+.uxui-page-mobile .user-exper-se-studies-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 305px;
+}
+.uxui-page-mobile .uxui-gW6vdi {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(46,65,138,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  width: calc(100.00% + 2px);
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --monza: rgba(180,1,26,1.0);
+  --shimmering-blush: rgba(217,127,140,1.0);
+}

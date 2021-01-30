@@ -1,0 +1,1110 @@
+/* screen - mystarz-social-circle-page-mobile */
+
+.lipaagatehigh-bold-black-14px {
+  color: var(--black);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.lipaagatehigh-regular-normal-black-18px {
+  color: var(--black);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-page-mobile {
+  background-color: rgba(255,255,255,1.0);
+  height: 10303px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.mystarz-social-circle-page-mobile .about-PsxVLr {
+  background-color: transparent;
+  bottom: -2px;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-page-mobile .age-of-use-represnted-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1987px;
+  width: 86px;
+}
+.mystarz-social-circle-page-mobile .billy-C61RwL {
+  background-color: transparent;
+  height: 146px;
+  left: 115px;
+  position: absolute;
+  top: 3605px;
+  width: 146px;
+}
+.mystarz-social-circle-page-mobile .billy-love--show-them-C61RwL {
+  background-color: transparent;
+  height: 408px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 3764px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .both-micha-dered-that-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: 756px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 9436px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .branding-q2BeyX {
+  background-color: transparent;
+  bottom: -2px;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-page-mobile .c00ked-col-logo-black-C61RwL {
+  background-color: transparent;
+  height: 61px;
+  left: 123px;
+  position: fixed;
+  top: 13px;
+  width: 130px;
+}
+.mystarz-social-circle-page-mobile .comp-analy-s-starz-01-C61RwL {
+  background-color: transparent;
+  height: 170px;
+  left: 36px;
+  position: absolute;
+  top: 7423px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .competitor-analysis-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 7390px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .definition-d-ideation-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 3488px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .deliverables-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1112px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .design-a-f-experience-C61RwL {
+  background-color: transparent;
+  height: 188px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 916px;
+  width: 246px;
+}
+.mystarz-social-circle-page-mobile .ellipse-1-C61RwL {
+  background-color: var(--shimmering-blush);
+  border-radius: 48.401485443115234px/48.51023483276367px;
+  height: 97px;
+  left: 39px;
+  position: absolute;
+  top: 1927px;
+  width: 97px;
+}
+.mystarz-social-circle-page-mobile .ellipse-2-C61RwL {
+  background-color: var(--shimmering-blush);
+  border-radius: 48.401485443115234px/48.51023483276367px;
+  height: 97px;
+  left: 139px;
+  position: absolute;
+  top: 1927px;
+  width: 97px;
+}
+.mystarz-social-circle-page-mobile .ellipse-3-C61RwL {
+  background-color: var(--shimmering-blush);
+  border-radius: 48.401485443115234px/48.51023483276367px;
+  height: 97px;
+  left: 239px;
+  position: absolute;
+  top: 1927px;
+  width: 97px;
+}
+.mystarz-social-circle-page-mobile .feature-pr--matrix-01-C61RwL {
+  background-color: transparent;
+  height: 170px;
+  left: 36px;
+  position: absolute;
+  top: 6314px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .feature-pr-ion-matrix-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 6282px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .flow-4-C61RwL {
+  background-color: transparent;
+  height: 98px;
+  left: 36px;
+  position: absolute;
+  top: 9319px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .group-62-C61RwL {
+  background-color: transparent;
+  height: 49px;
+  left: 114px;
+  position: fixed;
+  top: 744px;
+  width: 70px;
+}
+.mystarz-social-circle-page-mobile .group-63-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 194px;
+  position: fixed;
+  top: 747px;
+  width: 70px;
+}
+.mystarz-social-circle-page-mobile .group-64-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 270px;
+  position: fixed;
+  top: 746px;
+  width: 70px;
+}
+.mystarz-social-circle-page-mobile .group-67-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 36px;
+  position: fixed;
+  top: 742px;
+  width: 70px;
+}
+.mystarz-social-circle-page-mobile .how-might--e-end-of-v-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Lipa Agate High", Helvetica, Arial, serif;
+  font-size: 18px;
+  height: 819px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 4246px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .i-like-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 5153px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .i-wish-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 5644px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .icons8-about-480-PsxVLr {
+  background-color: transparent;
+  height: 30px;
+  left: calc(50.00% - 15px);
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.mystarz-social-circle-page-mobile .icons8-camera-90-L0cjLb {
+  background-color: transparent;
+  height: 33px;
+  position: absolute;
+  right: calc(48.57% - 16px);
+  top: 0px;
+  width: 33px;
+}
+.mystarz-social-circle-page-mobile .icons8-ide-sharing-90-q2BeyX {
+  background-color: transparent;
+  height: 32px;
+  left: calc(50.00% - 16px);
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+.mystarz-social-circle-page-mobile .icons8-res-nsive-90-1-gW6vdi {
+  background-color: transparent;
+  height: 38px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 32px);
+}
+.mystarz-social-circle-page-mobile .image-2-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 35px;
+  position: absolute;
+  top: 7791px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .image-3-C61RwL {
+  background-color: transparent;
+  height: 148px;
+  left: 115px;
+  position: absolute;
+  top: 8370px;
+  width: 148px;
+}
+.mystarz-social-circle-page-mobile .image-4-C61RwL {
+  background-color: transparent;
+  height: 148px;
+  left: 113px;
+  position: absolute;
+  top: 8789px;
+  width: 149px;
+}
+.mystarz-social-circle-page-mobile .in-the-day-h-to-watch-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .interview---questions-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 2040px;
+  width: 215px;
+}
+.mystarz-social-circle-page-mobile .interview--urvey-plan-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 1894px;
+  width: 176px;
+}
+.mystarz-social-circle-page-mobile .interview--y-insights-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 3004px;
+  width: 215px;
+}
+.mystarz-social-circle-page-mobile .line-36-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 535px;
+  width: 135px;
+}
+.mystarz-social-circle-page-mobile .line-37-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 1862px;
+  width: 135px;
+}
+.mystarz-social-circle-page-mobile .line-38-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 3527px;
+  width: 135px;
+}
+.mystarz-social-circle-page-mobile .line-39-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 38px;
+  position: absolute;
+  top: 5611px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .line-40-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 37px;
+  position: absolute;
+  top: 6021px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .line-41-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 7708px;
+  width: 135px;
+}
+.mystarz-social-circle-page-mobile .line-42-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 8287px;
+  width: 135px;
+}
+.mystarz-social-circle-page-mobile .max-age-21-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 8951px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .michael-age-22-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 8531px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .my-starz-s-case-study-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 568px;
+  width: 304px;
+}
+.mystarz-social-circle-page-mobile .phase-1-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1787px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .phase-1-us--iterating-C61RwL {
+  background-color: transparent;
+  height: 122px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1634px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .phase-2-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 3452px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .phase-3-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 7633px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .phase-4-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 8212px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .photography-L0cjLb {
+  background-color: transparent;
+  bottom: -2px;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-page-mobile .process-overview-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1600px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .prototyping-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 7669px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .rectangle-202-C61RwL {
+  background-color: rgba(255,255,255,1.0);
+  height: 87px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 375px;
+}
+.mystarz-social-circle-page-mobile .rectangle-203-C61RwL {
+  background-color: rgba(245,245,245,1.0);
+  height: 83px;
+  left: 0px;
+  position: fixed;
+  top: 729px;
+  width: 375px;
+}
+.mystarz-social-circle-page-mobile .rectangle-204-C61RwL {
+  background-color: var(--monza);
+  height: 1051px;
+  left: 36px;
+  opacity: 0.5;
+  position: absolute;
+  top: 711px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .rectangle-205-C61RwL {
+  background-color: var(--monza);
+  height: 543px;
+  left: -1px;
+  opacity: 0.5;
+  position: absolute;
+  top: 6606px;
+  width: 376px;
+}
+.mystarz-social-circle-page-mobile .rectangle-206-C61RwL {
+  background-color: var(--monza);
+  height: 847px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 9343px;
+  width: 375px;
+}
+.mystarz-social-circle-page-mobile .roles-this-rent-roles-C61RwL {
+  background-color: transparent;
+  height: 56px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1250px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .s-and-i-ke--takeaways-C61RwL {
+  background-color: transparent;
+  height: 158px;
+  left: 36px;
+  position: absolute;
+  top: 3036px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .sketches-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 7740px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .span0-SK9PGm {
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.mystarz-social-circle-page-mobile .span1-SK9PGm {
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-page-mobile .span2-SK9PGm {
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.mystarz-social-circle-page-mobile .span3-SK9PGm {
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-page-mobile .span4-SK9PGm {
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.mystarz-social-circle-page-mobile .span5-SK9PGm {
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-page-mobile .starz-open-screen-C61RwL {
+  background-color: transparent;
+  height: 167px;
+  left: 52px;
+  position: absolute;
+  top: 677px;
+  width: 271px;
+}
+.mystarz-social-circle-page-mobile .starz-tv-hd-mockup-1-C61RwL {
+  background-color: transparent;
+  height: 178px;
+  left: 42px;
+  position: absolute;
+  top: 6575px;
+  width: 288px;
+}
+.mystarz-social-circle-page-mobile .starz-user-persona-01-C61RwL {
+  background-color: transparent;
+  height: 170px;
+  left: 36px;
+  position: absolute;
+  top: 3257px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .surveyresponses-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1987px;
+  width: 86px;
+}
+.mystarz-social-circle-page-mobile .takeaways--user-tests-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 9268px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .testing-an--iterating-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 8248px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .the-challenge-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 882px;
+  width: 275px;
+}
+.mystarz-social-circle-page-mobile .the-my-sta--screens-s-C61RwL {
+  background-color: transparent;
+  height: 345px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 6784px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .tools-used-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1396px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .user-flow-starz-C61RwL {
+  background-color: transparent;
+  height: 170px;
+  left: 36px;
+  position: absolute;
+  top: 8002px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .user-insig--statement-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 3560px;
+  width: 176px;
+}
+.mystarz-social-circle-page-mobile .user-insig--statement-VMr6Om {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 4200px;
+  width: 176px;
+}
+.mystarz-social-circle-page-mobile .user-insig--statement-mzXdH9 {
+  background-color: transparent;
+  height: 22px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 5102px;
+  width: 176px;
+}
+.mystarz-social-circle-page-mobile .user-persona-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 3224px;
+  width: 215px;
+}
+.mystarz-social-circle-page-mobile .user-research-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1823px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .user-scena-o-starz-01-C61RwL {
+  background-color: transparent;
+  height: 170px;
+  left: 36px;
+  position: absolute;
+  top: 7190px;
+  width: 302px;
+}
+.mystarz-social-circle-page-mobile .user-scenario-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 7158px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .user-testi-candidates-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 8320px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .uxui-gW6vdi {
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(46,65,138,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-page-mobile .value-proposition-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 6524px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .what-if-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 6054px;
+  width: 305px;
+}
+.mystarz-social-circle-page-mobile .wireframe-user-flow-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 7952px;
+  width: 186px;
+}
+.mystarz-social-circle-page-mobile .x-frequent--een-before-C61RwL {
+  background-color: transparent;
+  height: 247px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 8994px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x-i-could-g-content-al-C61RwL {
+  background-color: transparent;
+  height: 327px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 5686px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x-link-my-s--starz-app-C61RwL {
+  background-color: transparent;
+  height: 148px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 6096px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x-normal-vi--recommend-C61RwL {
+  background-color: transparent;
+  height: 187px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 8574px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x-personali-to-the-pan-C61RwL {
+  background-color: transparent;
+  height: 408px;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 5194px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x1-1-interviews-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 1987px;
+  width: 86px;
+}
+.mystarz-social-circle-page-mobile .x1-starz-ap-ogle-forms-C61RwL {
+  background-color: transparent;
+  height: 163px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1430px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x1-ux-resea-x-designer-C61RwL {
+  background-color: transparent;
+  height: 68px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1316px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x1-what-tv--ew-content-C61RwL {
+  background-color: transparent;
+  height: 887px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2088px;
+  width: 246px;
+}
+.mystarz-social-circle-page-mobile .x1-written---wireframe-C61RwL {
+  background-color: transparent;
+  height: 97px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1146px;
+  width: 245px;
+}
+.mystarz-social-circle-page-mobile .x18-65-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 51px;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 1951px;
+  width: 93px;
+}
+.mystarz-social-circle-page-mobile .x5-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 51px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 1934px;
+  white-space: nowrap;
+  width: 98px;
+}
+.mystarz-social-circle-page-mobile .x63-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 51px;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 1934px;
+  white-space: nowrap;
+  width: 98px;
+}
+.protipo-light-black-11px {
+  color: var(--black);
+  font-family: 'Protipo-Light', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+}
+.protipo-normal-black-11px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-normal-black-20px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.protipo-normal-black-24px {
+  color: var(--black);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --monza: rgba(180,1,26,1.0);
+  --shimmering-blush: rgba(217,127,140,1.0);
+}
